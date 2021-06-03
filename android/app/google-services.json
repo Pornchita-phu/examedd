@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "200724562172",
+    "firebase_url": "https://examedd-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "examedd",
+    "storage_bucket": "examedd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:200724562172:android:c8cd13ff460acb1e3b1779",
+        "android_client_info": {
+          "package_name": "com.example.examedd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "200724562172-uo883l2jm2qn9q5sf74sgb3d02eitaeu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWCSKCusreRIHh5b7spaOO_DkuOI5QXGU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "200724562172-uo883l2jm2qn9q5sf74sgb3d02eitaeu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
